@@ -1,3 +1,0 @@
-goitlearn
-gNzmAJhyAtceMXpV
-mongodb+srv://goitlearn:gNzmAJhyAtceMXpV@cluster.pdfljge.mongodb.net/?retryWrites=true&w=majority
